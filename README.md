@@ -1,6 +1,8 @@
 # JailbreakSpy
 A RemoteSpy for Roblox, Jailbreak! It is capable of detecting garbage hashes which are meant to spam the game and remove them!
 
+# Created by Greekazo@v3rmillion.net
+
 # To-do-list
 ```If a box is checked, it means that it has already been done!```
 - [x] Garbage Hash Handler.
