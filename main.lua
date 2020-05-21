@@ -1,6 +1,4 @@
 --Settings:
---Leaked by EobardThawne.
-
 local RemoteIgnores = {
 	["RemoteFunction"] = true;
 	["RemoteEvent"] = true;
