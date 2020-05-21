@@ -3,7 +3,7 @@ A RemoteSpy for Roblox, Jailbreak! It is capable of detecting garbage hashes whi
 
 # Created by Greekazo@v3rmillion.net
 
-(https://i.imgur.com/YWYPY69.png)
+![alt text](https://i.imgur.com/YWYPY69.png)
 
 # To-do-list
 ```If a box is checked, it means that it has already been done!```
