@@ -11,10 +11,10 @@ A RemoteSpy for Roblox, Jailbreak! It is capable of detecting garbage hashes whi
 
 # Changelog
 ```
-**5/21/2020**
+5/21/2020
   - Replaced the old RemoteSpy method to not trigger any detections.
   - Randomated environment name so the poor Jailbreak developers don't search for the environment name.
-**5/19/2020**
+5/19/2020
   - Hash GarbageCollector.
   - Hash Beautifier.
 ```
